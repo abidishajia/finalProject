@@ -1,0 +1,46 @@
+[03-Nov-2016 12:09:02 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'allejo\Socrata\Exceptions\HttpException' with message 'HTTP  400: ' in phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php:352
+Stack trace:
+#0 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php(280): allejo\Socrata\Utilities\UrlQuery->handleResponseBody('<html><body><h1...', 'HTTP/1.1 400 Ba...')
+#1 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php(158): allejo\Socrata\Utilities\UrlQuery->handleQuery(true, Array)
+#2 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/SodaDataset.php(158): allejo\Socrata\Utilities\UrlQuery->sendGet('SELECT Category...', true, Array)
+#3 /home/sfbayca/public_html/zzzz-test-jdg/soda-test-2.php(19): allejo\Socrata\SodaDataset->getDataset('SELECT Category...')
+#4 {main}
+  thrown in phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php on line 352
+[03-Nov-2016 12:10:13 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'allejo\Socrata\Exceptions\HttpException' with message 'HTTP  400: ' in phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php:352
+Stack trace:
+#0 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php(280): allejo\Socrata\Utilities\UrlQuery->handleResponseBody('<html><body><h1...', 'HTTP/1.1 400 Ba...')
+#1 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php(158): allejo\Socrata\Utilities\UrlQuery->handleQuery(true, Array)
+#2 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/SodaDataset.php(158): allejo\Socrata\Utilities\UrlQuery->sendGet('SELECT Category...', true, Array)
+#3 /home/sfbayca/public_html/zzzz-test-jdg/soda-test-2.php(19): allejo\Socrata\SodaDataset->getDataset('SELECT Category...')
+#4 {main}
+  thrown in phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php on line 352
+[03-Nov-2016 12:10:15 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'allejo\Socrata\Exceptions\HttpException' with message 'HTTP  400: ' in phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php:352
+Stack trace:
+#0 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php(280): allejo\Socrata\Utilities\UrlQuery->handleResponseBody('<html><body><h1...', 'HTTP/1.1 400 Ba...')
+#1 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php(158): allejo\Socrata\Utilities\UrlQuery->handleQuery(true, Array)
+#2 phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/SodaDataset.php(158): allejo\Socrata\Utilities\UrlQuery->sendGet('SELECT Category...', true, Array)
+#3 /home/sfbayca/public_html/zzzz-test-jdg/soda-test-2.php(19): allejo\Socrata\SodaDataset->getDataset('SELECT Category...')
+#4 {main}
+  thrown in phar:///home/sfbayca/public_html/zzzz-test-jdg/phpsoda-1.0.0.phar/Utilities/UrlQuery.php on line 352
+[10-Nov-2016 18:26:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'BY' (T_STRING) in /home/sfbayca/public_html/j426-f16/sa/e09/e09.php on line 14
+[10-Nov-2016 18:27:59 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'BY' (T_STRING) in /home/sfbayca/public_html/j426-f16/sa/e09/e09.php on line 14
+[10-Nov-2016 18:38:38 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'BY' (T_STRING) in /home/sfbayca/public_html/j426-f16/sa/e09/e09.php on line 14
+[01-Dec-2016 18:46:36 America/Los_Angeles] PHP Fatal error:  Function name must be a string in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 3
+[08-Dec-2016 16:11:45 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 84
+[08-Dec-2016 16:12:54 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 84
+[20-Dec-2016 13:45:20 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 84
+[20-Dec-2016 13:45:24 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 84
+[29-Dec-2016 20:04:00 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 84
+[29-Dec-2016 20:04:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 84
+[29-Dec-2016 20:04:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 84
+[30-Dec-2016 19:24:17 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 81
+[30-Dec-2016 19:24:23 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 81
+[30-Dec-2016 22:16:17 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 78
+[30-Dec-2016 22:16:20 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 78
+[30-Dec-2016 22:24:34 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 78
+[02-Feb-2017 15:48:32 America/Los_Angeles] PHP Warning:  include(phpsoda-1.0.0.phar): failed to open stream: No such file or directory in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 5
+[02-Feb-2017 15:48:32 America/Los_Angeles] PHP Warning:  include(): Failed opening 'phpsoda-1.0.0.phar' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 5
+[02-Feb-2017 15:48:32 America/Los_Angeles] PHP Fatal error:  Class 'allejo\Socrata\SodaClient' not found in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 11
+[07-Feb-2017 15:31:59 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'col' (T_STRING) in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 96
+[07-Feb-2017 15:42:57 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 86
+[07-Feb-2017 15:55:41 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$case' (T_VARIABLE) in /home/sfbayca/public_html/j426-f16/sa/e09/a09-class.php on line 85
